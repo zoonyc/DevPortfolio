@@ -1,8 +1,8 @@
 import LineGradient from "../components/LineGradient";
 import useMediaQuery from "../hooks/useMediaQuery";
 import { motion } from "framer-motion";
-import { SiJavascript, SiReact, SiGithub, SiCss3, SiHtml5, SiOracle, SiJira, } from "react-icons/si";
-import { TbBrandMysql, TbBrandCSharp } from "react-icons/tb";
+import { SiJavascript, SiReact, SiGithub, SiCss3, SiHtml5, SiJira, } from "react-icons/si";
+import { TbBrandMysql} from "react-icons/tb";
 import { PiMicrosoftExcelLogoFill } from "react-icons/pi";
 
 const MySkills = () => {
