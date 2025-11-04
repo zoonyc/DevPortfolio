@@ -16,7 +16,7 @@ const SocialMediaIcons = () => {
         target="_blank"
         rel="noreferrer"
       >
-        <img alt="twitter-link" src="../assets/twitter.png" />
+        <img alt="Github-link" src="../assets/Github.png" />
       </a>
       <a
         className="hover:opacity-50 transition duration-500"
@@ -33,6 +33,14 @@ const SocialMediaIcons = () => {
         rel="noreferrer"
       >
         <img alt="instagram-link" src="../assets/instagram.png" />
+      </a>
+      <a
+        className="hover:opacity-50 transition duration-500"
+        href="https://discordapp.com/users/zoonyc"
+        target="_blank"
+        rel="noreferrer"
+      >
+        <img alt="discord-link" src="../assets/Discord.webp" />
       </a>
     </div>
   );
